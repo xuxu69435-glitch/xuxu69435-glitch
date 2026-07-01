@@ -1,97 +1,100 @@
-# 你好👋
+<p align="right">
+  <a href="./README.md">English</a> | <a href="./README.zh-CN.md">中文</a>
+</p>
 
-我是一名计算机科学与技术专业本科生，目前主要关注人工智能全栈开发、智能体应用、数据可视化和工程化项目落地。
+# Hi there 👋
 
-我希望把技术做成真正可以使用的产品，而不仅仅停留在代码实现层面。我关注从需求分析、前端交互、后端服务、模型调用、数据处理到项目部署的完整开发流程，也在持续提升自己的工程能力和项目表达能力。
+I am an undergraduate student majoring in Computer Science and Technology. My current focus is on AI full-stack development, AI agent applications, data visualization, and engineering-oriented project implementation.
 
-## 关于我
+I hope to turn technology into products that can be truly used, rather than keeping it only at the code implementation level. I care about the complete development process, including requirement analysis, frontend interaction, backend services, model integration, data processing, and project deployment. I am also continuously improving my engineering capabilities and project presentation skills.
 
-- 计算机科学与技术专业本科在读
-- 关注方向：人工智能全栈开发、智能体应用、数据可视化、开发者工具
-- 熟悉 Python、JavaScript、C++ 等编程语言
-- 熟悉 React、Vue、Vite、Three.js 等前端技术
-- 了解 PyTorch、OpenCV、大模型接口调用和智能体工作流
-- 熟悉 Git、Docker、Linux 等常用工程工具
-- 正在持续学习人工智能项目部署、智能体开发和工程化实践
+## About Me
 
-## 技术能力
+- Undergraduate student majoring in Computer Science and Technology
+- Focused on AI full-stack development, AI agents, data visualization, and developer tools
+- Familiar with programming languages such as Python, JavaScript, and C++
+- Familiar with frontend technologies such as React, Vue, Vite, and Three.js
+- Experienced with PyTorch, OpenCV, LLM API integration, and AI agent workflows
+- Familiar with common engineering tools such as Git, Docker, and Linux
+- Continuously learning AI application deployment, AI agent development, and engineering practices
 
-### 编程语言
+## Technical Skills
 
-Python、JavaScript、C++、SQL
+### Programming Languages
 
-### 前端开发
+Python, JavaScript, C++, SQL
 
-React、Vue、TypeScript、Vite、Three.js
+### Frontend Development
 
-### 后端与工程
+React, Vue, TypeScript, Vite, Three.js
 
-Flask、FastAPI、Linux、Docker、Git、接口设计、项目部署
+### Backend & Engineering
 
-### 人工智能与数据处理
+Flask, FastAPI, Linux, Docker, Git, API Design, Project Deployment
 
-PyTorch、OpenCV、大模型接口调用、智能体开发、数据处理、数据可视化
+### AI & Data Processing
 
-### 开发工具
+PyTorch, OpenCV, LLM API Integration, AI Agent Development, Data Processing, Data Visualization
 
-GitHub、VS Code、Cursor、Codex、Windows、Linux
+### Development Tools
 
-## 项目展示
+GitHub, VS Code, Cursor, Codex, Windows, Linux
 
-### [中文数字语音序列识别项目](https://github.com/xuxu69435-glitch/chinese-digit-speech-recognition)
+## Featured Projects
 
-这是一个基于 PyTorch 的语音识别学习项目，主要用于识别由中文数字语音组成的序列。项目通过随机拼接单个数字音频构造训练数据，并使用序列到序列模型完成数字语音序列预测。
+### [Chinese Digit Speech Recognition](https://github.com/xuxu69435-glitch/chinese-digit-speech-recognition)
 
-项目重点包括：
+This is a PyTorch-based speech recognition learning project designed to recognize sequences of spoken Chinese digits. The project constructs training data by randomly concatenating single-digit audio files and trains a sequence-to-sequence model to predict digit sequences.
 
-- 音频数据读取与预处理
-- 中文数字语音序列构造
-- 深度学习模型训练与推理
-- 训练结果评估与可视化
-- 项目结构整理与 GitHub 发布
+Key points:
 
-### [代码仓库分析工具](https://github.com/xuxu69435-glitch/repoinsight-agent)
+- Audio data loading and preprocessing
+- Chinese digit speech sequence construction
+- Deep learning model training and inference
+- Training result evaluation and visualization
+- Project structure organization and GitHub release
 
-这是一个面向代码仓库分析的工具型项目，目标是帮助开发者快速理解项目结构、检查运行环境、分析代码问题并生成可读报告。
+### [RepoInsight Agent](https://github.com/xuxu69435-glitch/repoinsight-agent)
 
-项目重点包括：
+This is a tool-oriented project for repository analysis. It aims to help developers quickly understand project structure, inspect the runtime environment, analyze code issues, and generate readable reports.
 
-- 项目目录结构分析
-- 文件读取与代码搜索
-- 环境检查与诊断
-- 报告生成与输出保护
-- 命令行工具设计
+Key points:
 
-### [本地学习助手智能体](https://github.com/xuxu69435-glitch/agent-study)
+- Project directory structure analysis
+- File reading and code search
+- Environment checking and diagnostics
+- Report generation with output protection
+- Command-line tool design
 
-这是一个面向学习场景的本地智能体项目，主要用于学习问题解析、网页内容读取和答案检查。项目尝试将大模型能力与本地工具调用结合，让智能体不仅可以回答问题，也可以读取和处理真实内容。
+### [Local Study Helper Agent](https://github.com/xuxu69435-glitch/agent-study)
 
-项目重点包括：
+This is a local AI agent project designed for learning scenarios. It supports study question analysis, webpage content reading, and answer checking. The project explores how to combine large language models with local tool calling, enabling the agent to answer questions while also reading and processing real content.
 
-- 学习问题分类
-- 网页内容读取
-- 本地工具调用
-- 答案检查与反馈
-- 智能体工作流设计
+Key points:
 
-## 关注的方向
+- Study question classification
+- Webpage content reading
+- Local tool calling
+- Answer checking and feedback
+- AI agent workflow design
 
-我目前最关注的是如何把人工智能能力和真实应用场景结合起来，包括：
+## Areas of Interest
 
-- 人工智能全栈应用
-- 本地工具型智能体
-- 面向普通用户的小型实用工具
-- 数据可视化与科研软件
-- 开发者效率工具
-- 可部署、可演示、可维护的完整项目
+I am currently most interested in combining AI capabilities with real-world application scenarios, including:
 
-## 联系我
+- AI full-stack applications
+- Local tool-based AI agents
+- Small practical tools for general users
+- Data visualization and scientific software
+- Developer productivity tools
+- Deployable, demonstrable, and maintainable projects
 
-- 邮箱：a133870xx@163.com && xuxu69435@gmail.com
-- GitHub：https://github.com/xuxu69435-glitch
-- 个人网站：暂未开放
-- 微信：扫码添加
+## Contact Me
 
-<img src="./assets/wechat-qr.png" width="180" alt="微信二维码">
+- Email: a133870xx@163.com / xuxu69435@gmail.com
+- GitHub: https://github.com/xuxu69435-glitch
+- WeChat: Scan the QR code below
 
-## 希望持续做出小而实用、完整可运行、真正解决问题的项目。
+<img src="./assets/wechat-qr.png" width="180" alt="WeChat QR Code">
+
+## I hope to keep building small, practical, complete, runnable, and truly useful projects.
