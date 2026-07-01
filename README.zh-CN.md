@@ -66,6 +66,18 @@ GitHub、VS Code、Cursor、Codex、Windows、Linux
 - 报告生成与输出保护
 - 命令行工具设计
 
+### [AI Coding Guardrails Skill](https://github.com/xuxu69435-glitch/ai-coding-guardrails-skill)
+
+这是一个面向 AI Coding 场景的轻量级 Skill 项目，主要用于约束 AI 编程助手在修改代码时保持范围清晰、改动最小、目标明确、结果可验证。项目希望减少 AI 编程过程中常见的隐藏假设、无关重构、过度设计和难以审查的大规模改动。
+
+项目重点包括：
+
+- 在实现前明确假设和边界
+- 控制代码修改范围，避免无关改动
+- 避免过度设计和不必要抽象
+- 明确任务目标和验证方式
+- 可用于 ChatGPT、Claude、Cursor、Windsurf、Claude Code 等 AI Coding 工具
+
 ### [本地学习助手智能体](https://github.com/xuxu69435-glitch/agent-study)
 
 这是一个面向学习场景的本地智能体项目，主要用于学习问题解析、网页内容读取和答案检查。项目尝试将大模型能力与本地工具调用结合，让智能体不仅可以回答问题，也可以读取和处理真实内容。

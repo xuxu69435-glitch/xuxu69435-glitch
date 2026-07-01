@@ -66,6 +66,18 @@ Key points:
 - Report generation with output protection
 - Command-line tool design
 
+### [AI Coding Guardrails Skill](https://github.com/xuxu69435-glitch/ai-coding-guardrails-skill)
+
+A lightweight AI coding skill designed to guide AI coding assistants to make minimal, scoped, explicit, and verifiable code changes. The project focuses on improving AI-assisted development workflows by reducing unnecessary refactoring, hidden assumptions, over-engineering, and hard-to-review diffs.
+
+Key points:
+
+- Clear assumptions before implementation
+- Minimal and focused code changes
+- Avoidance of unrelated refactoring and over-engineering
+- Verifiable goals and success criteria
+- Practical guidance for AI coding tools such as ChatGPT, Claude, Cursor, Windsurf, and Claude Code
+
 ### [Local Study Helper Agent](https://github.com/xuxu69435-glitch/agent-study)
 
 This is a local AI agent project designed for learning scenarios. It supports study question analysis, webpage content reading, and answer checking. The project explores how to combine large language models with local tool calling, enabling the agent to answer questions while also reading and processing real content.
