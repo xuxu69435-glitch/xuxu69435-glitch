@@ -103,6 +103,4 @@ GitHub、VS Code、Cursor、Codex、Windows、Linux
 
 <img src="./assets/wechat-qr.png" width="180" alt="微信二维码">
 
-## 一句话介绍
-
-希望持续做出小而实用、完整可运行、真正解决问题的项目。
+## 希望持续做出小而实用、完整可运行、真正解决问题的项目。
