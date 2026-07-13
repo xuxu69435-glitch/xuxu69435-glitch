@@ -42,6 +42,18 @@ GitHub, VS Code, Cursor, Codex, Windows, Linux
 
 ## Featured Projects
 
+### [BLCU Campus Digital Human](https://github.com/xuxu69435-glitch/blcu-digital-human)
+
+This is a campus digital human demonstration platform designed for admissions consultation, new-student guidance, and on-campus information services. The project combines large language model dialogue, speech synthesis, speech recognition, and avatar video state control to provide an interactive digital human experience.
+
+Key points:
+
+- Campus consultation and guidance scenarios
+- Vue 3, Pinia, and Vite frontend development
+- Large language model API integration and dialogue management
+- Speech synthesis, speech recognition, and avatar state transitions
+- Vitest-based testing, production authentication, build, and deployment workflows
+
 ### [Chinese Digit Speech Recognition](https://github.com/xuxu69435-glitch/chinese-digit-speech-recognition)
 
 This is a PyTorch-based speech recognition learning project designed to recognize sequences of spoken Chinese digits. The project constructs training data by randomly concatenating single-digit audio files and trains a sequence-to-sequence model to predict digit sequences.

@@ -42,6 +42,18 @@ GitHub、VS Code、Cursor、Codex、Windows、Linux
 
 ## 项目展示
 
+### [北语校园数字人](https://github.com/xuxu69435-glitch/blcu-digital-human)
+
+这是一个面向校园场景的数字人演示平台，主要用于报考咨询、新生导览和在校信息指引。项目结合大模型对话、语音合成、语音识别和数字人视频状态控制，为用户提供可交互的数字人体验。
+
+项目重点包括：
+
+- 校园咨询与信息指引场景
+- 基于Vue 3、Pinia和Vite的前端开发
+- 大模型接口接入与对话状态管理
+- 语音合成、语音识别和数字人状态切换
+- 基于Vitest的测试、生产鉴权、构建与部署流程
+
 ### [中文数字语音序列识别项目](https://github.com/xuxu69435-glitch/chinese-digit-speech-recognition)
 
 这是一个基于 PyTorch 的语音识别学习项目，主要用于识别由中文数字语音组成的序列。项目通过随机拼接单个数字音频构造训练数据，并使用序列到序列模型完成数字语音序列预测。
